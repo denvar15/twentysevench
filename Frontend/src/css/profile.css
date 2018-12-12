@@ -1,0 +1,99 @@
+.Data {
+    background: #fff;
+    border: .1rem solid #f0f1f4;
+    border-radius: .2rem;
+    display: block;
+    padding: 2rem;
+}
+
+.Data-user {
+    padding: 1rem;
+    box-sizing: inherit;
+    display: block;
+}
+
+.Data-post {
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    box-sizing: inherit;
+    display: block;
+}
+
+.Data-post-title {
+    padding-left: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    box-sizing: inherit;
+    display: block;
+}
+
+.Data-post-button {
+    padding-left: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    box-sizing: inherit;
+}
+
+.column-post {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 0.2rem;
+    width: 100%;
+}
+
+.button-view {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #279299;
+    border: .1rem solid  #406469;
+    border-radius: .2rem;
+    color: rgb(253, 253, 253);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.4rem;
+    height: 3.2rem;
+    line-height: 2rem;
+    outline: 0;
+    padding: .5rem .8rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.button-view:hover {
+    color: #DCFFFF;
+    text-decoration: none;
+}
+
+.button-rotor-darker {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #47af9b;
+    border: .1rem solid #172421;
+    border-radius: .2rem;
+    color: rgb(253, 253, 253);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.4rem;
+    height: 3.2rem;
+    line-height: 2rem;
+    outline: 0;
+    padding: .5rem .8rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}

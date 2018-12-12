@@ -1,0 +1,16 @@
+.NavBar {
+    background: rgb(102, 156, 166);
+    -ms-flex: 1;
+    flex: 1;
+    max-width: 100%;
+    padding: 1rem;
+}
+
+.Links-text {
+    color: rgb(240, 244, 244);
+}
+
+.navbar-logo {
+    display: inline-block;
+    padding-right: 10px;
+}
